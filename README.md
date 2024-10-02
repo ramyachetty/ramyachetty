@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyachetty&" alt="ramyachetty" /></p>
 
@@ -65,7 +65,7 @@
 
 ###
 
-<h3 align="left"> Visitors Count :</h3>
+<h2 align="left"> Visitors Count :</h2>
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=ramyachetty&label=Visitors&color=0e75b6&style=flat" alt="ramyachetty" /> </p>
 
